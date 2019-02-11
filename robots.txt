@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahshaeb.goratchet.com/sitemap.xml
